@@ -1,0 +1,113 @@
+/*7 lines of gold from http://motherfuckingwebsite.com*/
+body {
+	color: #444;
+	background-color: #ecf0f1;
+	font-family: sans-serif;
+	font-size: 18px;
+	line-height: 1.6;
+	margin: 40px auto;
+	max-width: 650px;
+	margin: 40px auto;
+	padding: 0 10px;
+}
+
+h1,
+h2,
+h3 {
+	line-height: 1.2;
+}
+
+.center{
+	text-align: center;
+}
+
+/*defining buttons styles*/
+button{
+
+	color: #ecf0f1;
+	background-color: #3498db;
+	font-size: 16px;
+	border: 2px solid #ecf0f1;;
+	margin-top: 25px;
+	padding: 10px 30px;
+	border-radius: 15px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+button:focus, button:hover{
+	background-color: #2980b9;
+	outline: none;
+}
+
+/*i continue with the birdie section*/
+.whatAbout{
+	margin-top: 30px;
+}
+
+.whatAbout button{
+	background-color: #2ecc71;
+}
+
+.whatAbout button:hover, button:focus{
+	background-color: #27ae60;
+}
+
+/*footer starts here*/
+footer{
+	margin-top: 30px;
+}
+
+footer p{
+	font-size: 14px;
+}
+
+footer a, footer a:visited{
+	color: #3498db;
+	transition: 0.3s;
+}
+
+footer a:focus, footer a:hover{
+	color: #2980b9;
+	outline: none;
+}
+
+ul{
+	list-style: none;
+	padding: 0px;
+}
+
+li{
+	display: inline-block;
+	padding: 5px;
+}
+
+li a span:before{
+	font-size: 20px;
+}
+
+/*my data dialog box*/
+.dialog{
+	display: none;
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+	background-color: #3498db;
+	color: #ecf0f1;
+	border: 2px solid #ecf0f1;
+	border-radius: 15px;
+	padding: 15px;
+}
+
+.dialog p{
+	line-height: 15px;
+}
+
+/*fallback for tablets/mobiles dialog box*/
+@media (max-width: 600px){
+	.dialog{
+		position: initial;
+		max-width: 80%;
+		margin: 30px auto;
+	}
+}

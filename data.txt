@@ -1,0 +1,9 @@
+mark	johansson	knife-rack	80	2
+mark	johansson	blender	200	1
+mark	johansson	knife	10	4
+Nikita	Smith	heater	60	3
+Nikita	Smith	knife	10	7
+Nikita	Smith	pot	20	3
+John	cussac	knife	10	3
+John	cussac	spoon	5	10
+John	cussac	book	15	3

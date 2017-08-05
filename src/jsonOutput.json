@@ -1,0 +1,17 @@
+{
+	"mark": [
+		{ "product": "knife-rack", "price": "80", "quantity": "2" },
+		{ "product": "blender", "price": "200", "quantity": "1" },
+		{ "product": "knife", "price": "10", "quantity": "4" }
+	],
+	"Nikita": [
+		{ "product": "heater", "price": "60", "quantity": "3" },
+		{ "product": "knife", "price": "10", "quantity": "7" },
+		{ "product": "pot", "price": "20", "quantity": "3" }
+	],
+	"John": [
+		{ "product": "knife", "price": "10", "quantity": "3" },
+		{ "product": "spoon", "price": "5", "quantity": "10" },
+		{ "product": "book", "price": "15", "quantity": "3" }
+	]
+}
