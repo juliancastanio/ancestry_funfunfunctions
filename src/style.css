@@ -49,7 +49,7 @@ button:focus, button:hover{
 	background-color: #2ecc71;
 }
 
-.whatAbout button:hover, button:focus{
+.whatAbout button:hover, .whatAbout button:focus{
 	background-color: #27ae60;
 }
 
