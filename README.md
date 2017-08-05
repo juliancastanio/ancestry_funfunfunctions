@@ -7,3 +7,5 @@ The JSON file contains all the creator's ancestries names, date, and parents inf
 
 The buttons placed in the HTML are for testing the second part of it. The private/public factory functions, explained by @mpjme in his
 Youtube's video tutorials. (this one in particular - https://www.youtube.com/watch?v=ImwrezYhw4w)
+
+*Crafted with a little help of JQuery v3.2.1, IonIcons 2.0.1 CDN & a lot of love*
